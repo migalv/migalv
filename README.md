@@ -11,8 +11,6 @@
 
 - ❤️ I’m in love with **Flutter**
 
-- 💬 Ask me about **Anything**
-
 - 📫 How to reach me **alvarez.lesmes.miguel@gmail.com**
 
 - ⚡ Fun fact **I love to play poker**
