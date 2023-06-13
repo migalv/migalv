@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Ethereum Wallet Billetero**
 
-- 🌱 I’m currently learning **Blockchain development**
+- 🌱 I’m currently learning **LangChain and LLMs**
 
-- 👯 I’m looking to collaborate on **New app ideas**
+- 👯 I’m looking to collaborate on **New AI app ideas**
 
 - ❤️ I’m in love with **Flutter**
 
