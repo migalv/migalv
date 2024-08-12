@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=migalv" alt="migalv" /></a> </p>
 
-- 🔭 I’m currently working on **Ethereum Wallet Billetero**
+- 🔭 I’m currently working on **My Pocket Brain** a second brain app powered by AI
 
-- 🌱 I’m currently learning **LangChain and LLMs**
+- 🌱 I’m currently learning about **Building AI powered apps**
 
 - 👯 I’m looking to collaborate on **New AI app ideas**
 
